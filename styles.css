@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #game-container {
+    margin: 50px;
+  }
+  
+  #score {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  #buttons {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
